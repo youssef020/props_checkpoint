@@ -1,0 +1,19 @@
+.App {
+ }
+.Pro{
+  border: 2px solid white;
+  width: 50%;
+  margin-left: 25%;
+  border-radius: 50px ;
+  text-align: center;
+  background-color: #DAA520
+;
+
+}
+.Image{
+  border-radius: 50% ;
+  padding-top: 10px ;
+
+
+
+}
